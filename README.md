@@ -1,16 +1,41 @@
-## Hi there 👋
+# HED-Lab
 
-<!--
-**hedlab-ai/hedlab-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biotechnology · Python · Data Analysis · AI**
 
-Here are some ideas to get you started:
+Building practical software tools at the intersection of life sciences, data analysis and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+HED-Lab focuses on developing tools that combine biotechnology with modern software development and AI.
+
+Current areas of interest include:
+
+- Biotechnology & laboratory data analysis
+- Python application development
+- Scientific data visualization
+- AI-assisted interpretation of experimental results
+- Laboratory workflow automation
+
+## Featured Project
+
+### 🧪 LabMind AI – Lab Report Assistant
+
+An AI-powered web application for analyzing enzyme kinetics experiments based on the Michaelis-Menten model.
+
+**Key features:**
+
+- Michaelis-Menten parameter estimation
+- Vmax, Km and R² calculation
+- Parameter uncertainty analysis
+- Replicate precision analysis
+- Data quality assessment
+- Michaelis-Menten and Lineweaver-Burk visualization
+- AI-assisted interpretation of experimental results
+- AI laboratory advisor
+- Automated PDF laboratory reports
+
+**Tech Stack:** Python · Streamlit · Pandas · NumPy · SciPy · Matplotlib · OpenAI API · ReportLab · Git/GitHub
+
+## Projects
+
+More biotechnology, data and AI projects are in development.
