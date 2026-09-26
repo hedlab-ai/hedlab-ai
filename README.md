@@ -17,8 +17,8 @@ Current areas of interest include:
 - Laboratory workflow automation
 
 ## Featured Project
-
-### 🧪 LabMind AI – Lab Report Assistant
+### 🧪 [LabMind AI – Lab Report Assistant](https://github.com/hedlab-ai/ai-lab-report-assistant)
+🌐 **Live Demo:** [labmind-ai.streamlit.app](https://labmind-ai.streamlit.app)
 
 An AI-powered web application for analyzing enzyme kinetics experiments based on the Michaelis-Menten model.
 
